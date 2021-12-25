@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BBFEdroid (Bagas B)
 - 👀 I’m Android Developer (Java)
-- 🌱 I’m currently learning in kotlin to
+- 🌱 I’m currently learning in kotlin
 - 📫 How to reach me Instagram : @bbartadiga
 
 <!---
